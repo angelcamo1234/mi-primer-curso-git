@@ -7,4 +7,6 @@ git add -A // Para agregar todos los archivos nuevos a la rama
 git commit -m 'se creó el archivo index.html y notas.txt' // Para hacer un commit de los archivos agregados a la rama
 git diff nameFile // Para ver los cambios realizados en el archivo
 git branch // Listar las ramas del proyecto
-
+git branch nameBranch // Crear una nueva rama
+git checkout nameBranch // Cambiar de rama
+git checkout -b nameBranch // Crear una nueva rama y te cambia directamente a ella
