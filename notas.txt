@@ -1,0 +1,6 @@
+git init // Para iniciar un repositorio
+git status // Para ver el estado de los archivos nuevos
+git add nameFile // Para agregar un archivo a la rama
+git add -A // Para agregar todos los archivos nuevos a la rama
+git commit -m 'se creó el archivo index.html y notas.txt' // Para hacer un commit de los archivos agregados a la rama
+
